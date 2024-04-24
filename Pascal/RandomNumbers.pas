@@ -1,16 +1,16 @@
 program SimpleForLoop;
 
 
-procedure GenerateRandomNumbers(var arr: array of integer);
+procedure GenerateRandomNumbers(var arr: array of integer; fromValue, toValue, count: integer);
 var
   i, randomNumber: integer;
 begin
-
-  for i := 1 to 50 do
+  
+  for i := 1 to count do
   begin
-    randomNumber := Random(100 + 1);
+    randomNumber := Random(toValue - fromValue + 1) + fromValue;
     arr[i] := randomNumber;
-    WriteLn(arr[i], ' ');
+    
   end;
 end;
 
@@ -32,16 +32,30 @@ begin
   end;
 end;
 
+procedure DisplayNumbers(arr: array of integer);
 var
-  arr: array of integer;
-  i: integer;
+  j: integer;
 begin
-    SetLength(arr, 50);
-    Randomize;
-    GenerateRandomNumbers(arr);
-    WriteLn('Po sortowaniu: ');
-    Sorting(arr);
+  
+  for j := Low(arr) to High(arr) do
+  begin
+    Write(arr[j], ' ');
+  end;
+   Writeln();
+end;
 
-    for i := Low(arr) to High(arr) do
-        WriteLn(arr[i], ' ');
+Var 
+  arr: array Of integer;
+  size: integer = 50;
+begin
+    Randomize;
+    SetLength(arr, size);
+    
+    GenerateRandomNumbers(arr, 100, 200, 50);
+    writeln('Wygenerowana liczby:');
+    DisplayNumbers(arr);
+    
+    Sorting(arr);
+    Writeln('Po sortowaniu:');
+    DisplayNumbers(arr);
 end.
