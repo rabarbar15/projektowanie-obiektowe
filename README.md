@@ -8,5 +8,5 @@ Projects built during classes at Jagiellonian University
 ❌ 4.5 5 testów jednostkowych testujące procedury |   
 ❌ 5.0 Skrypt w bashu do uruchamiania aplikacji w Pascalu via docker |   
 
-## Zadanie 1 - Wzorce architektury
+## Zadanie 2 - Wzorce architektury
 ✅ 3.0 Należy stworzyć jeden model z kontrolerem z produktami, zgodnie z CRUD | [Commit](https://github.com/rabarbar15/projektowanie-obiektowe/commit/df831e704a95bcdfe2081836772f2cb3cc3995b9)   
