@@ -7,5 +7,6 @@ class AuthorizationService {
 
     fun authorize(userName: String, password: String): Boolean {
         return (userName == "admin" && password == "admin123")
+
     }
 }
