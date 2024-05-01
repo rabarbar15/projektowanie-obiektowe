@@ -13,4 +13,5 @@ Projects built during classes at Jagiellonian University
 
 ## Zadanie 3 - Wzorce kreacyjne
 ✅ 3.0 Należy stworzyć jeden kontroler wraz z danymi wyświetlanymi z listy na endpoint’cie w formacie JSON - Kotlin + Spring Boot | [Commit](https://github.com/rabarbar15/projektowanie-obiektowe/commit/63245ed6d6f2130f966197ea2da4e4e79d8d3088)     
-✅ 3.5 Należy stworzyć klasę do autoryzacji (mock) jako Singleton w formie eager | [Commit](https://github.com/rabarbar15/projektowanie-obiektowe/commit/608d2a76d1c62a812abd6335ae06899b12c3467d)
+✅ 3.5 Należy stworzyć klasę do autoryzacji (mock) jako Singleton w formie eager | [Commit](https://github.com/rabarbar15/projektowanie-obiektowe/commit/608d2a76d1c62a812abd6335ae06899b12c3467d)     
+✅ 4.0 Należy obsłużyć dane autoryzacji przekazywane przez użytkownika | [Commit](https://github.com/rabarbar15/projektowanie-obiektowe/commit/99f557208256281a7aa46e9829f940aca8af4fdb)    
