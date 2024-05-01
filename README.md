@@ -10,3 +10,6 @@ Projects built during classes at Jagiellonian University
 
 ## Zadanie 2 - Wzorce architektury
 ✅ 3.0 Należy stworzyć jeden model z kontrolerem z produktami, zgodnie z CRUD | [Commit](https://github.com/rabarbar15/projektowanie-obiektowe/commit/df831e704a95bcdfe2081836772f2cb3cc3995b9)   
+
+## Zadanie 3 - Wzorce kreacyjne
+✅ 3.0 Należy stworzyć jeden kontroler wraz z danymi wyświetlanymi z listy na endpoint’cie w formacie JSON - Kotlin + Spring Boot | [Commit](https://github.com/rabarbar15/projektowanie-obiektowe/commit/63245ed6d6f2130f966197ea2da4e4e79d8d3088)     
