@@ -16,8 +16,11 @@ Projects built during classes at Jagiellonian University
 ✅ 3.5 Należy stworzyć klasę do autoryzacji (mock) jako Singleton w formie eager | [Commit](https://github.com/rabarbar15/projektowanie-obiektowe/commit/608d2a76d1c62a812abd6335ae06899b12c3467d)     
 ✅ 4.0 Należy obsłużyć dane autoryzacji przekazywane przez użytkownika | [Commit](https://github.com/rabarbar15/projektowanie-obiektowe/commit/99f557208256281a7aa46e9829f940aca8af4fdb)    
 
+## Zadanie 4 - Wzorce strukturalne   
+✅ 3.0 Należy stworzyć aplikację we frameworki echo w j. Go, która będzie miała kontroler Pogody, która pozwala na pobieranie danych o pogodzie (lub akcjach giełdowych) | [Commit](https://github.com/rabarbar15/projektowanie-obiektowe/commit/d3f4e81e377fab28e31caea049af99fb0508b24c)   
+
 ## Zadanie 5 - Frontend    
-✅ 3.0 W ramach projektu należy stworzyć dwa komponenty: Produkty oraz Płatności; Płatności powinny wysyłać do aplikacji serwerowej dane, a w Produktach powinniśmy pobierać dane o produktach z aplikacji serwerowej;                
+✅ 3.0 W ramach projektu należy stworzyć dwa komponenty: Produkty oraz Płatności; Płatności powinny wysyłać do aplikacji serwerowej dane, a w Produktach powinniśmy pobierać dane o produktach z aplikacji serwerowej;            
 ✅ 3.5 Należy dodać Koszyk wraz z widokiem; należy wykorzystać routing    
 ✅ 4.0 Dane pomiędzy wszystkimi komponentami powinny być przesyłane za pomocą React hooks   
 ❌ 4.5 Należy dodać skrypt uruchamiający aplikację serwerową oraz kliencką na dockerze via docker-compose     
