@@ -28,3 +28,7 @@ Projects built during classes at Jagiellonian University
 
 ## Zadanie 6 - Zapaszki Sonar   
 ✅ 3.0 Należy dodać eslint w hookach gita | [Commit](https://github.com/rabarbar15/projektowanie-obiektowe/commit/6757a1568cdf842839428c73542d4294494c34e2)    
+✅ 3.5 Należy wyeliminować wszystkie bugi w kodzie w Sonarze (kod aplikacji klienckiej) | [Commit](https://github.com/rabarbar15/projektowanie-obiektowe/commit/13127297ef72cd7334382d24b34953a477e9f72a)   
+✅ 4.0 Należy wyeliminować wszystkie zapaszki w kodzie w Sonarze (kod aplikacji klienckiej)| [Commit](https://github.com/rabarbar15/projektowanie-obiektowe/commit/13127297ef72cd7334382d24b34953a477e9f72a)   
+✅ 4.5 Należy wyeliminować wszystkie podatności oraz błędy bezpieczeństwa w kodzie w Sonarze (kod aplikacji klienckiej)| [Commit](https://github.com/rabarbar15/projektowanie-obiektowe/commit/13127297ef72cd7334382d24b34953a477e9f72a)    
+✅ 5.0 Zredukować duplikaty kodu do 0% | [Commit](https://github.com/rabarbar15/projektowanie-obiektowe/commit/13127297ef72cd7334382d24b34953a477e9f72a)    
