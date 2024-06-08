@@ -25,3 +25,6 @@ Projects built during classes at Jagiellonian University
 ✅ 4.0 Dane pomiędzy wszystkimi komponentami powinny być przesyłane za pomocą React hooks   
 ❌ 4.5 Należy dodać skrypt uruchamiający aplikację serwerową oraz kliencką na dockerze via docker-compose     
 ✅ Należy wykorzystać axios’a oraz dodać nagłówki pod CORS | [Commit](https://github.com/rabarbar15/projektowanie-obiektowe/commit/dd369442b0163e3aef0cb1671e5c4fcf87494588)     
+
+## Zadanie 6 - Zapaszki Sonar   
+✅ 3.0 Należy dodać eslint w hookach gita | [Commit](https://github.com/rabarbar15/projektowanie-obiektowe/commit/6757a1568cdf842839428c73542d4294494c34e2)    
