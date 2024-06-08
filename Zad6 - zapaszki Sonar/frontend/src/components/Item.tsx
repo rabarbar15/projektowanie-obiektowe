@@ -17,11 +17,6 @@ export const Item = ({id, name, author, price}: ItemProps) => {
     style={{ width: "270px" }}
   >
     
-    
-    {/* <Card.Img variant='top' src={imgUrl} height="410px" 
-      style={{ objectFit: "cover" }} 
-    /> */}
-
     <Card.Body>
 
       <Card.Title className='d-flex flex-column mb-4 align-items-center'>
