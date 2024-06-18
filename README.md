@@ -33,5 +33,5 @@ Projects built during classes at Jagiellonian University
 ✅ 4.5 Należy wyeliminować wszystkie podatności oraz błędy bezpieczeństwa w kodzie w Sonarze (kod aplikacji klienckiej)| [Commit](https://github.com/rabarbar15/projektowanie-obiektowe/commit/13127297ef72cd7334382d24b34953a477e9f72a)    
 ✅ 5.0 Zredukować duplikaty kodu do 0% | [Commit](https://github.com/rabarbar15/projektowanie-obiektowe/commit/13127297ef72cd7334382d24b34953a477e9f72a)   
 
-## Zadanie 6 - Antywzorce Vapor (Swift)   
+## Zadanie 7 - Antywzorce Vapor (Swift)   
 ✅ 3.0 Należy stworzyć kontroler wraz z modelem Produktów zgodny z CRUD w ORM Fluent | [Commit](https://github.com/rabarbar15/projektowanie-obiektowe/commit/fbe7e6a8af728e1b3ca344204d5b7ddfa6a5b385)    
