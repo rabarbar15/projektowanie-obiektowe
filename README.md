@@ -35,3 +35,9 @@ Projects built during classes at Jagiellonian University
 
 ## Zadanie 7 - Antywzorce Vapor (Swift)   
 ✅ 3.0 Należy stworzyć kontroler wraz z modelem Produktów zgodny z CRUD w ORM Fluent | [Commit](https://github.com/rabarbar15/projektowanie-obiektowe/commit/fbe7e6a8af728e1b3ca344204d5b7ddfa6a5b385)    
+
+## Zadanie 8 - Mobile first  
+✅ 3.0 Stworzenie listy kategorii oraz produktów | [Commit](https://github.com/rabarbar15/projektowanie-obiektowe/commit/ae0aa6717c437445a80ef579c3a6148eee13176d)    
+
+## Zadanie 9 - Testy 
+✅ 3.0 Należy stworzyć 20 przypadków testowych w CypressJS lub Selenium (Kotlin, Python, Java, JS, Go, Scala) | [Commit](https://github.com/rabarbar15/projektowanie-obiektowe/commit/4ef5c4ba8ec330700d76f10d109c5a5f39dc2768)    
